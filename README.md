@@ -149,26 +149,93 @@ Raw CSV (simulated ticket export)
 *(Exact figures will vary slightly if you regenerate the dataset without the fixed seed.)*
 
 ---
+## 📊 Dashboard & Visualizations
 
-## 📈 Dashboard Preview
+### Executive Power BI Dashboard
 
-> Build the Power BI dashboard following `dashboard/PowerBI_Dashboard_Guide.md`,
-> then export a screenshot to `screenshots/dashboard_overview.png` and it
-> will render here automatically:
->
-> `![Dashboard Overview](screenshots/dashboard_overview.png)`
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
-### EDA Chart Gallery (generated via `src/visualization.py`)
-
-| | |
-|---|---|
-| ![Monthly Trend](screenshots/01_monthly_ticket_trend.png) | ![Issue Category](screenshots/02_issue_category_distribution.png) |
-| ![Priority Distribution](screenshots/03_priority_distribution.png) | ![Status Distribution](screenshots/04_status_distribution.png) |
-| ![Resolution Time by Priority](screenshots/05_resolution_time_by_priority.png) | ![Regional CSAT](screenshots/06_regional_csat.png) |
-| ![Agent Performance](screenshots/07_agent_performance_csat.png) | ![Channel Distribution](screenshots/08_channel_distribution.png) |
-| ![SLA Compliance](screenshots/09_sla_compliance.png) | ![Escalation by Priority](screenshots/10_escalation_by_priority.png) |
+The dashboard provides an executive view of customer support performance, including ticket volume, SLA compliance, customer satisfaction (CSAT), response time, resolution time, regional insights, and agent performance.
 
 ---
+
+### 📈 Monthly Ticket Trend
+
+![Monthly Ticket Trend](screenshots/01_monthly_ticket_trend.png)
+
+Shows ticket volume trends over time to identify seasonal patterns and workload fluctuations.
+
+---
+
+### 🏷️ Issue Category Distribution
+
+![Issue Category Distribution](screenshots/02_issue_category_distribution.png)
+
+Highlights the most common customer issues to identify opportunities for self-service and process improvements.
+
+---
+
+### 🚨 Priority Distribution
+
+![Priority Distribution](screenshots/03_priority_distribution.png)
+
+Displays the distribution of Low, Medium, High, and Critical priority tickets.
+
+---
+
+### 📂 Ticket Status Distribution
+
+![Status Distribution](screenshots/04_status_distribution.png)
+
+Shows the current status of support tickets across the support lifecycle.
+
+---
+
+### ⏱️ Resolution Time by Priority
+
+![Resolution Time by Priority](screenshots/05_resolution_time_by_priority.png)
+
+Compares average resolution times across different priority levels.
+
+---
+
+### 🌍 Regional Customer Satisfaction
+
+![Regional CSAT](screenshots/06_regional_csat.png)
+
+Analyzes customer satisfaction scores across different regions.
+
+---
+
+### 👨‍💼 Agent Performance
+
+![Agent Performance](screenshots/07_agent_performance_csat.png)
+
+Compares support agents based on customer satisfaction performance.
+
+---
+
+### 📞 Channel Distribution
+
+![Channel Distribution](screenshots/08_channel_distribution.png)
+
+Illustrates ticket distribution across Email, Chat, Phone, and Web channels.
+
+---
+
+### ✅ SLA Compliance
+
+![SLA Compliance](screenshots/09_sla_compliance.png)
+
+Shows the percentage of tickets resolved within SLA targets.
+
+---
+
+### ⚠️ Escalation by Priority
+
+![Escalation by Priority](screenshots/10_escalation_by_priority.png)
+
+Displays escalation rates across ticket priority levels.
 
 ## 💡 Key Insights
 
