@@ -339,9 +339,7 @@ Customer-Support-Ticket-Analysis/
 ---
 
 ## 👤 Author
-
-Built as a portfolio project to demonstrate end-to-end data analytics skills:
-data generation, cleaning, Python EDA, SQL, and BI dashboarding.
+kunchala shailaja
 
 ## 📜 License
 
