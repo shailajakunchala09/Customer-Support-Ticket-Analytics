@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI (large binary files - keep .pbix out of git if too large, or use Git LFS)
+*.pbix.lock
+
+# Environment
+.env
