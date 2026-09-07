@@ -13,6 +13,15 @@ built to reflect real-world analytics work at service-driven organizations
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+### Live Dashboard : https://customer-support-ticket-analytics.onrender.com/
+
+### 🌐 Customer Support Analytics — Interactive Dashboard
+
+👉 **[Open Live Dashboard](https://customer-support-ticket-analytics.onrender.com/)**
+
+> Explore ticket trends, resolution performance, CSAT, SLA compliance,
+> escalation analysis, agent performance, regional insights, and interactive filters.
+
 
 ## 📌 Project Overview
 
